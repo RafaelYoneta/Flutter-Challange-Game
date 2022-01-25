@@ -1,0 +1,23 @@
+Conceitos para aprender depois;
+
+.Extention
+. key
+. parse
+. map
+. valueNotifier
+
+
+
+-------------
+. Sabado
+. Juridico
+    - nominal vs anônimo
+    - Operadoras
+. Dados
+. Não vender mais Ferramentas - cliente que já temos?
+. 100 dias
+
+-------------
+Ana Luiza
+    - Quem tem os contratos para analisar? Ajudar com a análise
+    - Ajustes no termo e política de rivacidade
