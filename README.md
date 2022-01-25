@@ -1,16 +1,25 @@
-# organics
+# Flutter DevQuiz
 
-A new Flutter project.
+this very simple project was part of a 1 weak course, implementing basic concepts of the flutter architecture.
 
-## Getting Started
+![Home screen and challange](/assets/images/overview.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Overview
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2>Creating a quizzes<h2>
+. This project is not integrated with any API, so you can create and test the quiz by creating new questions on the following directori
+/assets/database/quizzes.json
+using the following exemple
+ ```
+ {
+  "title": "Esta Curtindo o Flutter1", 
+  "answer": [
+    {"title":"Estou curtindo"},
+    {"title":"Muito foda"},
+    {"title":"Top demais"},
+    {"title":"So so","isRight": true}]
+  },
+```
+. You can also define the user name and photo by editing the  following directory
+/assets/database/user.json
