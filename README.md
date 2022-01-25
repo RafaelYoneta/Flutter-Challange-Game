@@ -2,7 +2,7 @@
 
 this very simple project was part of a 1 weak course, implementing basic concepts of the flutter architecture.
 
-![Home screen and challange](assets/images/overview.png)
+![Home screen and challange](assets/images/overview.PNG)
 
 
 ###### Overview
